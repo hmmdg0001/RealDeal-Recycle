@@ -1,7 +1,6 @@
 # RealDeal Recycle ♻️
 
 **Projeto de Prova de Aptidão Profissional (PAP) - 12º Ano**  
-Curso: Técnico de Informática - Programação  
 Ano Letivo: 2023/2024
 
 ---
@@ -68,8 +67,6 @@ Assets/
 └── TextMesh Pro/              # Recursos TextMesh Pro
 ```
 
----
-
 ## 🚀 Como Executar
 
 ### Pré-requisitos
@@ -115,37 +112,9 @@ Assets/
 
 ---
 
-## 📸 Capturas de Ecrã
-
-| Menu Principal | Jogabilidade | Níveis |
-|----------------|--------------|--------|
-| ![Menu](Assets/Menu/Imagens/Menu%20Ceu.png) | *Em desenvolvimento* | *Em desenvolvimento* |
-
----
-
-## 📚 Referências & Créditos
-
-- **TextMesh Pro** - Unity Technologies
-- **TextToTMP Plugin** - Conversão legacy Text → TMP
-- **Elementos gráficos** - Criação própria / recursos educativos livres
-- **Inspiração** - Jogos educativos de sustentabilidade (ex: Eco, Recycle Roundup)
-
----
-
 ## 📄 Licença
 
 Este projeto é um trabalho académico (PAP - 12º Ano) sem fins comerciais.  
 Código fonte disponível para fins educativos e de portefólio.
 
 ---
-
-## 👨‍💻 Autor
-
-**Henrique Marinho**  
-📧 GitHub: [@hmmdg0001](https://github.com/hmmdg0001)  
-🎓 Curso: Técnico de Informática - Programação  
-📅 Conclusão: 2024
-
----
-
-> *"A reciclagem não é apenas separar lixo, é separar o futuro do passado."* ♻️
